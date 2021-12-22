@@ -15,9 +15,9 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ git clone https://github.com/BlackB07/Betacloner
+$ git clone https://github.com/Mr-Beta-Version/BetaCloner
 
-$ cd Betacloner
+$ cd BetaCloner
 
 $ python2 beta.py
 
